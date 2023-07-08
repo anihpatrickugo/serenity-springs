@@ -4,9 +4,9 @@ import topDesign from '../images/3.png'
 
 const Reservations = () => {
   return (
-    <section id="reservations" className='w-screen px-4 md:px-0'>
+    <section id="reservations" className='w-screen'>
 
-      <div className="max-w-4xl mx-auto flex flex-col items-center py-16 ">
+      <div className="max-w-4xl mx-auto flex flex-col items-center py-16 px-4 md:px-0">
       
       <div className="w-30 md:w-20 md:mb-8">
             <Image

@@ -6,8 +6,8 @@ import { FaInstagram, FaTwitter, FaFacebook } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer id="footer" className='w-screen px-4 md:px-0 py-8 bg-secondary'>
-        <div className="max-w-4xl mx-auto flex flex-col items-center">
+    <footer id="footer" className='w-screen bg-secondary'>
+        <div className="max-w-4xl mx-auto flex flex-col items-center px-4 md:px-0 py-8">
           <div className="w-full flex flex-col md:flex-row items-center justify-center mb-32">
 
                {/* logo and link */}

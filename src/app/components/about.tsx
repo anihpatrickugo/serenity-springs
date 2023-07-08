@@ -4,8 +4,8 @@ import aboutImage from '../images/about.png'
 
 const About = () => {
   return (
-    <section id='#about' className='w-screen px-4 md:px-0 py-4'>
-      <div className="max-w-4xl mx-auto flex flex-col items-center">
+    <section id='#about' className='w-screen'>
+      <div className="max-w-4xl mx-auto flex flex-col items-center  px-4 md:px-0 py-4">
        <h3 className="py-8 text-md md:text-2xl md:font-bold">
         ABOUT
        </h3>

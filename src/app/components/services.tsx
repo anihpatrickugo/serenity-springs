@@ -4,8 +4,8 @@ import topDesign from '../images/2.png'
 
 const Services = () => {
   return (
-    <section id="#services" className='w-screen px-4 md:px-0'>
-        <div className="max-w-4xl mx-auto flex flex-col items-center">
+    <section id="#services" className='w-screen'>
+        <div className="max-w-4xl mx-auto flex flex-col items-center px-4 md:px-0">
          <div className="w-30 md:w-20 mb-8 md:mb-0">
             <Image
             className='w-full'
