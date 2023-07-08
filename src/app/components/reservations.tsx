@@ -21,11 +21,11 @@ const Reservations = () => {
       <h3 className=" text-md md:hidden my-8">
           RESERVATIONS
       </h3>
-      <h2 className="text-4xl text-center font-bold tracking-wide leading-normal italic md:w-8/12">
+      <h2 className="text-4xl text-center font-bold tracking-wide leading-normal italic w-full md:w-8/12">
 
             Ready to indulge in some much-needed relaxation? Call us today at 
-            <span className='font-normal'> (310) 123-4567 </span> 
-            or email <span className='font-normal'>res@serenitysprings.com </span>
+            <span className='font-normal text-3xl'> (310) 123-4567 </span> 
+            or email <span className='font-normal text-3xl'>res@serenitysprings.com </span>
             to schedule your appointment.
        </h2>
 

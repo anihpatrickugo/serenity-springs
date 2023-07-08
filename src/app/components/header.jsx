@@ -11,7 +11,7 @@ import { FaInstagram, FaTwitter, FaFacebook } from "react-icons/fa";
 const Header = () => {
   const { menu, dispatch } = useContext(MobileMenu);
   return (
-    <header className="relative w-screen md:h-screen  px-4 md:px-0">
+    <header className="relative w-screen md:h-screen px-4 md:px-0">
       {/* mobile dropdown */}
       <div
         className={` ${
